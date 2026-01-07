@@ -3,5 +3,6 @@
 3. https://www.archibab.fr/textes?trloo=false&dmin=2020&dmax=0&o=ref,id&page=1&size=25&count=28488
 4. https://cdli.earth/
 5. https://www.ebl.lmu.de/library/
+6. https://isac.uchicago.edu/research/publications/chicago-assyrian-dictionary
 
 Dado un cdli_id y/o eBL_id buscar su "rango de tiempo y lugar" - buscar en las otras DBs textos similares para testing del traductor
